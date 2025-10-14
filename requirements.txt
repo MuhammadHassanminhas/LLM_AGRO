@@ -1,0 +1,8 @@
+pandas>=1.5
+numpy
+pyarrow
+openpyxl
+python-dateutil
+tqdm
+fastparquet        # optional for parquet
+scikit-learn       # for robust scaler or zscore if used
