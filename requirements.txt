@@ -13,3 +13,4 @@ safetensors
 huggingface-hub
 tokenizers
 faiss-cpu
+sentence-transformers
