@@ -14,4 +14,4 @@ huggingface-hub
 tokenizers
 faiss-cpu
 sentence-transformers
-bitsandbytes
+
