@@ -12,9 +12,8 @@ st.set_page_config(page_title="AgroBot 🌾", layout="wide")
 
 st.markdown("""
 <style>
-body {
-    background-color: #E9F3F0;
-    font-family: "Segoe UI", Arial, sans-serif;
+     body {
+    background-color: #E9F3F0 !important;
 }
 header {
     background-color: #1EAC53;
@@ -24,7 +23,7 @@ header {
     font-weight: 600;
 }
 .sidebar .sidebar-content {
-    background-color: #ffffff;
+    background-color: #1EAC53;
 }
 .stButton>button {
     background-color: #FFC107;
